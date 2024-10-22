@@ -2,7 +2,9 @@
 #### I am Mobile Developer (Android & IOS)
 ![I am Mobile Developer (Android & IOS)](https://1.bp.blogspot.com/-nYoXkKYqPbM/XmlGfH2JyfI/AAAAAAAAOvM/VZagj9-mJeE_I33RCxltSYI9p7SZC9udgCLcBGAsYHQ/s1600/AD%2BBlogger.png)
 
-As an Android Developer, I have used Android SDK, IntelliJ, Kotlin, MVVM, MVP, MVI, Room DB, Firebase, Live Data, API - JSON, Retrofit, OKHttp, Android Architecture, Module, Push Notification, Local Notifications, Dependency Injection, Hilt & Dagger, UI Testing, Unit Testing, Localizations, XML, Jetpack Compose; Camera & Storage functionalities; and integrating AdMob.
+As a seasoned Mobile Developer, I have extensive experience working with Android SDK, Kotlin, Swift, Swift UI, Jetpack Compose, MVVM, MVI, Room DB, Firebase, Retrofit, and Hilt. My technical expertise spans across Clean Architecture, Dependency Injection, Coroutines, REST & SOAP APIs, Push Notifications, and Unit/UI Testing. I thrive on delivering scalable, user-focused applications with efficient performance.
+Currently, I lead Android development at Kalem Yazılım MMC, while also dedicating my spare time to creating innovative mobile apps such as restaurant apps, AI-based chatbots, and e-commerce platforms, all of which are available on my GitHub.
+With a passion for continuous learning and staying ahead of industry trends, I am committed to building impactful digital solutions that enhance user experiences.
 
 Skills: Kotlin / Swift
 
